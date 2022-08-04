@@ -16,5 +16,6 @@ public class ArrayListDemo {
         System.out.println(al);
         al.add("M");
         System.out.println(al);
+        al = null;
     }
 }
